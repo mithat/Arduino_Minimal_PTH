@@ -1,5 +1,5 @@
 Arduino_Minimal_PTH
-====================
+===================
 
 Crazy stupid experiment to see how small you can make an Arduino-compatible
 board using through hole parts.
@@ -11,5 +11,7 @@ considered optional.
 
 Made entirely with [free and open source software](http://www.kicad-pcb.org/).
 No raptors were touched in the making of this board.
+
+![PCB front](doc/img/brdfront.png) ![PCB back](doc/img/brdback.png)
 
 No, I haven't built it (yet?).
