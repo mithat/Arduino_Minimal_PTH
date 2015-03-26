@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /home/mithat/Electronics/Arduino/arduino-rc-ui/PCB/Arduino_Pro_Mini_PTH/Arduino_Pro_Mini_PTH.sch)
+    (source /home/mithat/Electronics/Arduino/arduino-rc-ui/PCB/Arduino_Minimal_PTH/Arduino_Minimal_PTH.sch)
     (date "Wed 25 Mar 2015 10:58:33 PM CDT")
     (tool "eeschema (25-Oct-2014 BZR 4029)-stable"))
   (components

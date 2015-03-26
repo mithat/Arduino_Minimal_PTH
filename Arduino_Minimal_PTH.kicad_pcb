@@ -14,8 +14,8 @@
 
   (page A)
   (title_block 
-    (title "Arduino Pro Mini using through-hole parts")
-    (company "Mithat Konar (https://github.com/mithat/Arduino_Pro_Mini_PTH)")
+    (title "Minimal Arduino using through-hole parts")
+    (company "Mithat Konar (https://github.com/mithat/Arduino_Minimal_PTH)")
     (comment 1 "Original Pro Mini design by SparkFun Electronics")
     (comment 2 "Creative Commons Attribution Share Alike 3.0 License")
   )
