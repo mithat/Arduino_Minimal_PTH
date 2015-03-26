@@ -9,7 +9,7 @@ The design is based on the
 to follow that board's I/O conventions. Everything that can be considered 
 optional has been eliminated.
 
-Made with [KiCad](http://www.kicad-pcb.org/), which is [http://en.wikipedia.org/wiki/Free_and_open-source_software](free and open source software).
+Made with [KiCad](http://www.kicad-pcb.org/), which is [free and open source software](http://en.wikipedia.org/wiki/Free_and_open-source_software).
 No raptors were touched in the making of this board.
 
 ![PCB front](doc/img/brdfront.png) ![PCB back](doc/img/brdback.png)
