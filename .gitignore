@@ -2,7 +2,7 @@
 *.dsn
 *.ses
 *.kicad_pcb-bak
-*.zip
-*.pdf
-*.svg
+/*.zip
+/*.pdf
+/*.svg
 Gerbers/*
