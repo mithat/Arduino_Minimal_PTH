@@ -2,7 +2,7 @@ Arduino_Minimal_PTH
 ===================
 
 Crazy stupid experiment to see how small you can make an Arduino-compatible
-board using through hole parts.
+board using through-hole parts.
 
 The design is based on the 
 [Arduino Pro Mini](http://arduino.cc/en/Main/arduinoBoardProMini), and it tries
